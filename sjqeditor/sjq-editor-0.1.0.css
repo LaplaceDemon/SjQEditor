@@ -1,0 +1,18 @@
+.sjqEditor{overflow:hidden;}
+.sjqEditor *{margin:0px;padding:0px;}
+.toolbar{overflow:hidden;zoom:1;padding:2px;}
+.toolbar div{margin:1px;}
+.editarea{overflow:hidden;}
+.editframe{width:100%;}
+.button{border:1px solid black;float:left;}
+.button a{color:black;}
+
+.button  a:link{text-decoration: none;background-color:blue}/*初始状态*/
+.button a:visited {text-decoration: none;background-color:green}/*链接被访问过的状态*/
+.button a:active {text-decoration: none;background-color:red}/*鼠标按下的状态*/
+.button a:hover {text-decoration: none;background-color:yellow}/*鼠标按下的状态*/
+
+.button:link{text-decoration: none;background-color:blue}/*初始状态*/
+.button:visited {text-decoration: none;background-color:green}/*链接被访问过的状态*/
+.button:active {text-decoration: none;background-color:red}/*鼠标按下的状态*/
+.button:hover {text-decoration: none;background-color:yellow}/*鼠标按下的状态*/
